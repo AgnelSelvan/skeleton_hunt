@@ -1,16 +1,16 @@
-# halloween_hunt
+# Skeleton Hunt
+Kill all the Skeleton present in scene to complete the Level.
+Created using Flutter and Flame Engine.
+Created for Midyear 2022 Flame Game Jam
 
-A new Flutter project.
+## Controls
+A - Move Left
+D - Move Right
+W - Attack
+Space - Jump
+R - Pause/Resume
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Looks
+Here are some screenshot of outputs
+<img src="./screenshots/1.png">
+<img src="./screenshots/2.png">
